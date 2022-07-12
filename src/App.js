@@ -6,6 +6,7 @@ import { createGlobalStyle } from "styled-components"
 
 //componentes
 import Header from "./componet/Header"
+import Main from "./componet/Main"
 import Footer from "./componet/footer"
 
 const GlobalStyle = createGlobalStyle`
@@ -26,6 +27,7 @@ export default class blog extends React.Component{
       <>
       <GlobalStyle />
         <Header/>
+        <Main/>
         <Footer/>
       </>
     )
