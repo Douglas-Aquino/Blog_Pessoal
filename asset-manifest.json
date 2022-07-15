@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blog_Pessoal/static/css/main.e6c13ad2.css",
+    "main.js": "/Blog_Pessoal/static/js/main.9006509a.js",
+    "static/js/787.f587e8d5.chunk.js": "/Blog_Pessoal/static/js/787.f587e8d5.chunk.js",
+    "static/media/MinhaFt.jpeg": "/Blog_Pessoal/static/media/MinhaFt.7c038524b498194ffcbc.jpeg",
+    "index.html": "/Blog_Pessoal/index.html",
+    "main.e6c13ad2.css.map": "/Blog_Pessoal/static/css/main.e6c13ad2.css.map",
+    "main.9006509a.js.map": "/Blog_Pessoal/static/js/main.9006509a.js.map",
+    "787.f587e8d5.chunk.js.map": "/Blog_Pessoal/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9006509a.js"
+  ]
+}
