@@ -50,7 +50,7 @@ display:flex;
 align-items:center;
 
 img{
-    border:groove #AF005F 10px;
+    border:groove #AF005F 5px;
     width:15vw;
     margin:10vw;
     border-radius:0px 100px 0px 100px;
@@ -63,7 +63,6 @@ h2{
 }
 `
 
-
 export default function Header(){
     return(
         <>
@@ -71,7 +70,7 @@ export default function Header(){
             <img src="https://convergenciabrasil.com.br/static/media/bandeira.c07041e2.png" alt="Bandeirinha do Brasil"/>
             <h1>DougBlog</h1>
             <HeaderList>
-                <li><a href="">OML</a> </li>
+                <li><a href=" https://douglas-aquino.github.io/Campanha_Pro_Bairro/">ONU</a> </li>
                 <li><a href="">Sobre</a></li>
                 <li><a href="">Outros</a></li>
             </HeaderList>

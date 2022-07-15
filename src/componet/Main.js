@@ -34,7 +34,6 @@ height:25vw;
 display:flex;
 justify-content:space-around;
 align-items: center;
-
 h2{
     text-align: center;
 }
@@ -52,6 +51,7 @@ width:20vw;
 height:20vw;
 `
 const SantaImg = styled.img`
+width:40vw;
 box-shadow: 10px 10px 10px pink;
 `
 
