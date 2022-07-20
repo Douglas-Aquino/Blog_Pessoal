@@ -34,8 +34,11 @@ export default function Footer(){
                 </a>
                 <a href="https://www.instagram.com/douglaxaquino/">
                     <img src="https://oktobarbike.com.br/wp-content/uploads/2016/08/instagram-icon.png" alt="Icone do Instagram"/>
-                    </a>
-                <li></li>
+                </a>
+
+                <a href="https://github.com/Douglas-Aquino">
+                    <img src="https://raphaelbrodrigues.github.io/images/git.png" alt="Icone do GitHub"/>
+                </a>
               </ListIcon>
             </ContainerFooter>
         </>

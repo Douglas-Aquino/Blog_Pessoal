@@ -3,9 +3,10 @@ import styled from "styled-components"
 
 
 const T2 = styled.div`
-font-size:3vw;
+font-size:4vw;
 color:#AF005F;
 padding:2vw;
+text-align:center;
 `
 const ContainPersona = styled.div`
 width:20vw;
