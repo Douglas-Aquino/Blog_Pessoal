@@ -9,6 +9,25 @@ height:4.29vw;
 background-color:#AF005F;
 color:white;
 border:none;
+
+@media(max-width: 768px){
+    height:10vw;
+
+    h2{
+        font-size:2.5vw;
+    }
+}
+@media(max-width: 375px){
+    height:15vw;
+    display:flex;
+    justify-content: space-around;
+    
+    h2{
+        width:70vw;
+        font-size:3.5vw;
+    }
+
+}
 `
 const ListIcon = styled.ul`
 width:15vw;
@@ -20,6 +39,23 @@ margin-left:20vw;
 
 img{
     width:3vw;
+}
+
+@media(max-width: 768px){
+    width:40vw;
+    height:10vw;
+
+    img{
+        width:6vw;
+    }
+}
+@media(max-width: 375px){
+    width:40vw;
+    height:100%;
+
+    img{
+        width:7vw;
+    }
 }
 `
 
